@@ -1,0 +1,2 @@
+this folder is for sklearn objects that have been fitted and need to be used later on to transform user data
+will need some sort of folder structure in here for current and previously fitted objects as we ingest new data that needs new re-fitted objects

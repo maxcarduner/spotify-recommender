@@ -1,0 +1,1 @@
+this folder is for scripts used to configure s3 bucket

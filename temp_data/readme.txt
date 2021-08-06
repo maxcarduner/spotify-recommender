@@ -1,0 +1,1 @@
+this folder is to keep any scratch data you need, will not push to remote repo, added to gitignore
